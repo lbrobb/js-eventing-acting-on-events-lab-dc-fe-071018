@@ -1,1 +1,1 @@
-dodger.style.backgroundColor = ""
+dodger.style.backgroundColor = ''
